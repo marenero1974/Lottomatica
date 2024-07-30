@@ -1,0 +1,4 @@
+it\lottomatica\request\DocumentoRequest.class
+it\lottomatica\configuration\LottomaticaConfig.class
+it\lottomatica\controller\LottomaticaController.class
+it\lottomatica\LottomaticaApplication.class
